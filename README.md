@@ -25,7 +25,7 @@ cd OMERIZ-EVOS
 ### 4. Buka File node_module_setup.bat
 ### 5. Coba Jalankan Dengan start.bat, 
 ###### A. Atau Buka CMD
-####### B. Ketik cd ke pathnya
+###### B. Ketik cd ke pathnya
 ###### C. Ketik 
 ```bash 
 npm start
